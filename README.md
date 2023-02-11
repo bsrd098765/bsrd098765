@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bsrd098765, 
+- 👋 Hi, I’m @bsrd098765, Currently Working as As Test Automation Engineer.
 - 👀 I’m interested in Full Stack Development.
 
 
